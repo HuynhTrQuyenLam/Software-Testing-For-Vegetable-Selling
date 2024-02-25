@@ -1,6 +1,6 @@
 # SOFTWARE TESTING FOR VEGETABLE SELLING
 ## About project
-
+As a software developed to efficiently and flexibly manage the sales process, the project aims to provide a comprehensive solution to help businesses enhance management, track sales figures, and improve the overall customer experience.
 ## 1. What is Manual Testing?
 In manual testing, a tester manually verifies the functionality of the software. The tester has a comprehensive list of all the manual testing test cases they should test, along with the test data. They go through each case, one by one. They launch the software as an end-user would, enter the input, and manually verify the output.
 
