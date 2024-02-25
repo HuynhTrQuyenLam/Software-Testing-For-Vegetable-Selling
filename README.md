@@ -10,3 +10,21 @@ However, manual testing allows the tester to realistically test the software, us
 
 ## 2. What types of manual testing are there?
 ![image](https://github.com/HuynhTrQuyenLam/Software-Testing-For-Vegetable-Selling/assets/114284524/87218296-7785-4d45-8823-c0f492f02a60)
+Trong vòng đời kiểm thử, có nhiều loại kiểm thử thủ công hoặc kỹ thuật kiểm thử thủ công khác nhau có thể được sử dụng. Sau đây là danh sách của họ:
+
+Kiểm tra hộp đen
+Kiểm tra hộp trắng
+Kiểm tra đơn vị
+Thử nghiệm hệ thống
+Thử nghiệm hội nhập
+Kiểm tra chấp nhận
+## 3. Describe the manual testing process
+![image](https://github.com/HuynhTrQuyenLam/Software-Testing-For-Vegetable-Selling/assets/114284524/908ab453-febb-4524-af9d-ff501deec496)
+Among the steps involved in manual testing are:
+
+* Requirement analysis
+* Test plan creation
+* Design test scenarios and test cases
+* Test execution and defect reporting
+* Evaluating exit criteria and reporting
+* Test closure activities
