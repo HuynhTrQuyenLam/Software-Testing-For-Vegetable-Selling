@@ -10,6 +10,7 @@ However, manual testing allows the tester to realistically test the software, us
 
 ## 2. What types of manual testing are there?
 ![image](https://github.com/HuynhTrQuyenLam/Software-Testing-For-Vegetable-Selling/assets/114284524/87218296-7785-4d45-8823-c0f492f02a60)
+
 Trong vòng đời kiểm thử, có nhiều loại kiểm thử thủ công hoặc kỹ thuật kiểm thử thủ công khác nhau có thể được sử dụng. Sau đây là danh sách của họ:
 
 Kiểm tra hộp đen
